@@ -2,9 +2,7 @@
 
 ### Hello! 👋 Welcome to my profile
 
-I'm 
-
- - 📌 Skills: Linux, AWS, , Bootstrap, jQuery, Quasar, Node.js
+ - 📌 Skills: Linux, AWS, Bash, Webservers, Firewalls, Java 
  - 📚 Currently learning Ansible and Terraform
  - 😄 In my free time I usually play games, watch series and stay with my family
  - ⚡ thiagoalexandria.com.br tips for beginners and all cool stuff from sysads land.
