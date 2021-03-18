@@ -7,7 +7,11 @@
  - 😄 In my free time I usually play games, watch series and stay with my family
  - 💻 My blog is [thiagoalexandria.com.br](thiagoalexandria.com.br) tips for beginners and all cool stuff from sysads land.
  
- ----
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagoalexandria&show_icons=true&theme=dark)](https://github.com/thiagoalexandria/)
+<br/>
+
+----
 
 [![Github Badge](https://img.shields.io/badge/-thiagoalexandria-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagoalexandria)](https://github.com/thiagoalexandria)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-alexandria/)](https://www.linkedin.com/in/thiago-alexandria/)
@@ -16,7 +20,7 @@
 
 ---
 
-### Tecnologias:
+### Techs:
 
 [<img align="left" alt="HTML5" width="90px" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">][nginx]
 [<img align="left" alt="HTML5" width="40px" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">][apache]
@@ -30,10 +34,6 @@
 
 
 <br/><br/><br/><br/>
-
----
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagoalexandria&show_icons=true&theme=dark)](https://github.com/thiagoalexandria/)
-<br/>
 
 [nginx]: https://nginx.org/en/docs/
 [apache]: https://httpd.apache.org/docs/
