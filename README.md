@@ -14,8 +14,11 @@
 
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagoalexandria&show_icons=true&theme=dark)](https://github.com/thiagoalexandria/)
-
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoalexandria&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalexandria&layout=compact&langs_count=16&theme=dark" />
+<div>
+ 
 ---
 
 ### Techs:
