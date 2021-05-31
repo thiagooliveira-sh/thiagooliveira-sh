@@ -7,41 +7,28 @@
  - 😄 In my free time I usually play games, watch series and stay with my family
  - 💻 My blog is [thiagoalexandria.com.br](thiagoalexandria.com.br) tips for beginners and all cool stuff from sysads land.
  
-[![Github Badge](https://img.shields.io/badge/-thiagoalexandria-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagoalexandria)](https://github.com/thiagoalexandria)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-alexandria/)](https://www.linkedin.com/in/thiago-alexandria/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandriathiago@gmail.com)](mailto:alexandriathiago@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@thiagoalexandria-F77737?style=flat-square&labelColor=F77737&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagoalexandria/)](https://www.instagram.com/thiagoalexandria/)
-
-
----
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoalexandria&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalexandria&layout=compact&langs_count=16&theme=dark" />
 <div>
  
----
-
-### Techs:
-
-[<img align="left" alt="HTML5" width="90px" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">][nginx]
-[<img align="left" alt="HTML5" width="40px" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">][apache]
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">][bash]
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/python-logo.png">][python]
-[<img align="left" alt="HTML5" width="80px" src="https://thiagoalexandria.com.br/assets/img/mysql-logo.png">][mysql]
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/ansible-logo.png">][ansible]
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">][terraform]
-[<img align="left" alt="HTML5" width="60px" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">][docker]
-[<img align="left" alt="HTML5" width="80px" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">][jenkins]
-
-
-<br/><br/><br/><br/>
-
-[nginx]: https://nginx.org/en/docs/
-[apache]: https://httpd.apache.org/docs/
-[bash]: https://www.gnu.org/software/bash/manual/
-[python]: https://www.python.org/doc/
-[mysql]: https://dev.mysql.com/doc/
-[ansible]: https://docs.ansible.com/ansible/latest/cli/ansible-doc.html
-[terraform]: https://www.terraform.io/docs/
-[docker]: https://docs.docker.com/
-[jenkins]: https://www.jenkins.io/doc/
+ <div style="display: inline_block"><br>
+  <img align="center" alt="TH-Nginx" height="50" width="70" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
+  <img align="center" alt="TH-Apache" height="40" width="40" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
+  <img align="center" alt="TH-Bash" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
+  <img align="center" alt="TH-Python" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/python-logo.png">
+  <img align="center" alt="TH-Mysql" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/mysql-logo.png">
+  <img align="center" alt="TH-Ansible" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/ansible-logo.png">
+  <img align="center" alt="TH-Terraform" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
+  <img align="center" alt="TH-Jenkins" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
+  <img align="center" alt="TH-Docker" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
+</div>
+ 
+ ---
+ 
+<div> 
+  <a href="https://instagram.com/thiagoalexandria" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: alexandriathiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-alexandria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+ 
