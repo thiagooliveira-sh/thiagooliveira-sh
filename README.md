@@ -1,55 +1,63 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thiagoalexandria&repo=thiagoalexandria&countColorcountColor)
+# Thiago Alexandria
 
-<img align="right" src="https://github.com/thiagoalexandria/thiagoalexandria/blob/master/Imagens/user.png?raw=true" width="300"/>
+**DevOps Engineer | AWS Specialist | Cloud Security Enthusiast**
 
-<h1 align="center">Thiago Oliveira de Alexandria</h1>
+Building secure, scalable, and cost-effective cloud infrastructure.
 
+---
 
+## 🚀 About
 
-<p align="center">
-    <a href="https://instagram.com/thiagoalexandria" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto: alexandriathiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/thiago-alexandria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://thiagoalexandria.com.br" target="_blank"><img src="https://img.shields.io/badge/Blog-thiagoalexandria-%237159c1?style=flat&logo=ghost" target="_blank"></a>
-</p>
-<br>
+I'm a DevOps Engineer specializing in AWS cloud architecture, infrastructure automation, and security. I write about DevSecOps, Terraform, and cloud best practices at [thiagoalexandria.com.br](https://thiagoalexandria.com.br).
 
-### Hello! 👋 Welcome to my profile
+**Current Focus:**
+- AWS Security & Compliance (IAM, GuardDuty, Config)
+- Infrastructure as Code (Terraform, CloudFormation)
+- Kubernetes & EKS (Karpenter, Auto Mode)
+- FinOps & Cost Optimization
 
-<p>
-	   - 📌 Skills: Linux, AWS, Bash, Webservers, Firewalls, Java <br>
-    - ⚡ Currently learning Kubernetes and Terraform <br>
-    - 😄 In my free time I usually play games, watch series and stay with my family <br>
-</p>
-<br>
+---
 
-### 🛠 Tecnologias
+## 🏆 Certifications
 
-**Technologias:**
+- ☁️ AWS Certified Security – Specialty
+- ☁️ AWS Certified Solutions Architect – Associate  
+- ☁️ AWS Certified DevOps Engineer – Professional
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="TH-Nginx" height="50" width="70" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
-  <img align="center" alt="TH-Apache" height="40" width="40" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
-  <img align="center" alt="TH-Bash" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
-  <img align="center" alt="TH-Ansible" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/ansible-logo.png">
-  <img align="center" alt="TH-Terraform" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/terraform-logo.png">
-  <img align="center" alt="TH-Docker" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
+---
+
+## 🛠️ Tech Stack
+
+**Cloud:** AWS (EKS, EC2, S3, RDS, Lambda, CloudFormation)  
+**IaC:** Terraform, CloudFormation, Ansible  
+**Containers:** Docker, Kubernetes, EKS, Karpenter  
+**CI/CD:** GitHub Actions, GitLab CI, Jenkins  
+**Monitoring:** Prometheus, Grafana, CloudWatch, Datadog  
+**Security:** Checkov, Prowler, AWS Config, GuardDuty  
+**Languages:** Bash, Python, HCL, YAML
+
+---
+
+## 📝 Recent Blog Posts
+
+- [Security as Code: Prevenindo Falhas Antes do Deploy](https://thiagoalexandria.com.br/security-as-code-prevenindo-falhas-antes-do-deploy)
+- [Governança de Tags na Nuvem](https://thiagoalexandria.com.br/governanca-de-tags-na-nuvem-como-automatizar-e-validar-padroes)
+- [Account Factory for Terraform](https://thiagoalexandria.com.br/account-factory-for-terraform)
+- [Construindo IAM Least Privilege](https://thiagoalexandria.com.br/construindo-iam-least-privilege)
+
+➡️ [More posts...](https://thiagoalexandria.com.br)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alexandria)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://thiagoalexandria.com.br)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandriathiago@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagooliveira-sh&show_icons=true&theme=dark&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooliveira-sh&layout=compact&theme=dark" height="165">
 </div>
-
-
-**Tenho interesse:**
-
-<p align="left">
-  <img align="center" alt="TH-Python" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/python-logo.png">
-  <img align="center" alt="TH-Jenkins" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/jenkins-logo.png">
-  <img align="center" alt="TH-Mysql" height="30" width="40" src="https://thiagoalexandria.com.br/assets/img/mysql-logo.png">
-</p>
-
- ---
- 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagooliveira-sh&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooliveira-sh&layout=compact&langs_count=16&theme=dark" />
-<div>
-
-
