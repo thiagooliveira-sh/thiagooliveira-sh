@@ -21,7 +21,7 @@ I'm a DevOps Engineer specializing in AWS cloud architecture, infrastructure aut
 ## 🏆 Certifications
 
 - ☁️ AWS Certified Security – Specialty
-- ☁️ AWS Certified Solutions Architect – Associate  
+- ☁️ AWS Certified Solutions Architect – Professional  
 - ☁️ AWS Certified DevOps Engineer – Professional
 
 ---
